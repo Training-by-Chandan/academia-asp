@@ -1,0 +1,3 @@
+<%
+Server.Execute("index.asp")
+%>
